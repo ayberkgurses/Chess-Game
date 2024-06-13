@@ -24,11 +24,11 @@ A simple chess game implemented in Python.
    ```bash
    ./setup.sh
    
-4. Activate the virtual environment:
+3. Activate the virtual environment:
    ```bash
    source venv/bin/activate
    
-6. Run the game:
+4. Run the game:
    ```bash
    python main.py
    
@@ -40,15 +40,15 @@ A simple chess game implemented in Python.
    git clone https://github.com/ayberkgurses/Chess-Game.git
 cd Chess-Game
 
-3. Run the setup script:
+2. Run the setup script:
    ```bash
    setup.bat
 
-5. Activate the virtual environment:
+3. Activate the virtual environment:
    ```bash
    venv\Scripts\activate
 
-7. Run the game:
+4. Run the game:
    ```bash
    python main.py
 

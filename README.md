@@ -21,7 +21,7 @@ A simple chess game implemented in Python.
    cd Chess-Game
    
 2. Run the setup script:
-   '''bash
+   ```bash
    ./setup.sh
    
 4. Activate the virtual environment:

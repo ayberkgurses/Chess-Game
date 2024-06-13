@@ -21,12 +21,13 @@ A simple chess game implemented in Python.
    cd Chess-Game
    
 2. Run the setup script:
+   '''bash
    ./setup.sh
    
-3. Activate the virtual environment:
+4. Activate the virtual environment:
    source venv/bin/activate
    
-4. Run the game:
+5. Run the game:
    python main.py
    
 

@@ -17,7 +17,7 @@ A simple chess game implemented in Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Chess-Game.git
+   git clone https://github.com/ayberkgurses/Chess-Game.git
    cd Chess-Game
    
 2. Run the setup script:
@@ -37,7 +37,7 @@ A simple chess game implemented in Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Chess-Game.git
+   git clone https://github.com/ayberkgurses/Chess-Game.git
 cd Chess-Game
 
 3. Run the setup script:
